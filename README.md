@@ -10,6 +10,6 @@ Este repositório foi criado para uma atividade do curso Iterasys, com foco em a
 
 ## 📋 Passo a Passo da Automação
 1️⃣ **Login:** Inserir login e senha no sistema.  
-2️⃣ **Adicionar Produto:** Selecionar e adicionar o produto à loja.  
+2️⃣ **Adicionar Produto:** Adicionar o produto no carrinho.  
 3️⃣ **Carrinho:** Acessar o carrinho de compras.  
 4️⃣ **Validação:** Verificar a quantidade, o nome e o valor do produto.
