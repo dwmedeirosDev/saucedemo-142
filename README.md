@@ -1,14 +1,19 @@
-# 🚀 Automação de Testes - Lista 05 Iterasys
+## 🚀 Automação de Testes - Lista 05 Iterasys
 
 Este repositório foi criado para uma atividade do curso Iterasys, com foco em automação de testes utilizando Java, JUnit e Selenium.
+Importado do SeleniumIDE e ajustado/otimizado para o VSCode.
 
-## 🛠️ Tecnologias Utilizadas
+---
+
+### 🛠️ Tecnologias Utilizadas
 - ☕ **Java**  
 - ✅ **JUnit**  
 - 🌐 **Selenium IDE**  
 - 🚗 **Selenium WebDriver**
 
-## 📋 Passo a Passo da Automação
+---
+
+### 📋 Passo a Passo da Automação
 1️⃣ **Login:** Inserir login e senha no sistema.  
 2️⃣ **Adicionar Produto:** Adicionar o produto no carrinho.  
 3️⃣ **Carrinho:** Acessar o carrinho de compras.  
